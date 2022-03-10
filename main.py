@@ -58,8 +58,8 @@ LANG = os.environ.get('BOT_LANG')
 if LANG is not None:
     print("Lang : " + LANG)
 else:
-    print("Lang : tr")
-    LANG = 'tr'
+    print("Lang : en")
+    LANG = 'en'
 
 
 def __(s):
