@@ -6,7 +6,7 @@
     "pt": "Está fazendo o download...",
     "in": "Anda sedang download...",
     "dt": "Es wird heruntergeladen..."
-	"tr": "Sabırlı ol..."
+    "tr": "Sabırlı ol..."
   },
   "track_link": {
     "fr": "Lien du track",
@@ -15,7 +15,7 @@
     "pt": "Link da música",
     "in": "Tautan musik",
     "dt": "Musik-Link"
-	"tr": "Muzik Link"
+    "tr": "Muzik Link"
   },
   "album_link": {
     "fr": "Lien de l'album",
@@ -24,7 +24,7 @@
     "pt": "Link do Álbum",
     "in": "Tautan Album",
     "dt": "Album-Link"
-	"tr": "Album Link"
+    "tr": "Album Link"
   },
   "playlist_link": {
     "fr": "Lien de la playlist",
@@ -33,7 +33,7 @@
     "pt": "Link da playlist",
     "in": "Tautan playlist",
     "dt": "Playlist-Link"
-	"tr": "Calma Listesi Link"
+    "tr": "Calma Listesi Link"
   },
   "download_error": {
     "fr": "Échec du téléchargement.",
@@ -42,7 +42,7 @@
     "pt": "Aconteceu um erro durante o download",
     "in": "Terjadi kesalahan selama download",
     "dt": "Beim Herunterladen ist ein Fehler aufgetreten"
-	"tr": "indirme basarısız. baska sarkı dene."
+    "tr": "indirme basarısız. baska sarkı dene."
   },
   "running_download": {
     "fr": "Un téléchargement est déjà en cours !",
@@ -51,6 +51,6 @@
     "pt": "Um download já está em andamento!",
     "in": "Pengunduhan sedang berlangsung!",
     "dt": "Ein Download ist bereits in Bearbeitung!"
-	"tr": "indirme islemi zaten devam ediyor!"
+    "tr": "indirme islemi zaten devam ediyor!"
   }
 }
