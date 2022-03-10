@@ -414,7 +414,7 @@ async def help_start(event: types.Message):
     bot_username = bot_info.username.replace("_", "\\_").replace("*", "\\*").replace("[", "\\[").replace("`", "\\`")
     msg = "Merhaba, Ben *{}*\n".format(bot_name)
     msg += "Bu bot ayşe için hazırlandı :)\n"
-    msg += "İstediğin tüm şarkılar benimle bulabilirsin\\!"
+    msg += "İstediğin tüm şarkıları benimle bulabilirsin!"
     await event.answer(msg, parse_mode="MarkdownV2")
 
 
